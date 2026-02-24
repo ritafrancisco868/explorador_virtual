@@ -1,0 +1,37 @@
+{
+    "admin": {
+        "password": "admin123",
+        "pontuacao_maxima": 0,
+        "jogos_completos": 0
+    },
+    "rita123": {
+        "password": "1234",
+        "pontuacao_maxima": 39750,
+        "jogos_completos": 243
+    },
+    "rita345": {
+        "password": "2345",
+        "pontuacao_maxima": 1000,
+        "jogos_completos": 1
+    },
+    "margarida": {
+        "password": "1234",
+        "pontuacao_maxima": 4000,
+        "jogos_completos": 4
+    },
+    "flavio": {
+        "password": "1234",
+        "pontuacao_maxima": 4000,
+        "jogos_completos": 4
+    },
+    "rodrigo": {
+        "password": "1234",
+        "pontuacao_maxima": 0,
+        "jogos_completos": 0
+    },
+    "1234": {
+        "password": "1234",
+        "pontuacao_maxima": 0,
+        "jogos_completos": 0
+    }
+}

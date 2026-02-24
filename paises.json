@@ -1,0 +1,1549 @@
+{
+  "Afeganistao": {
+    "continente": "Asia",
+    "coordenadas": [33.9391, 67.7100],
+    "capital": "Cabul",
+    "clima": "Arido e semi-arido",
+    "animais": ["Leopardo-das-neves", "Marco-polo"],
+    "imagem": "afeganistao.jpg"
+    
+  },
+  "Africa do Sul": {
+    "continente": "Africa",
+    "coordenadas": [-30.5595, 22.9375],
+    "capital": "Pretoria",
+    "clima": "Subtropical e temperado",
+    "animais": ["Leao", "Elefante-africano"],
+    "imagem": "africa_do_sul.jpg"
+    
+  },
+  "Albania": {
+    "continente": "Europa",
+    "coordenadas": [41.1533, 20.1683],
+    "capital": "Tirana",
+    "clima": "Mediterranico",
+    "animais": ["Aguia-dourada", "Lince-dos-balcas"],
+    "imagem": "albania.jpg"
+  },
+  "Alemanha": {
+    "continente": "Europa",
+    "coordenadas": [51.1657, 10.4515],
+    "capital": "Berlim",
+    "clima": "Temperado continental",
+    "animais": ["Veado", "Texugo"],
+    "imagem": "alemanha.jpg"
+  },
+  "Andorra": {
+    "continente": "Europa",
+    "coordenadas": [42.5063, 1.5218],
+    "capital": "Andorra-a-Velha",
+    "clima": "Montanha",
+    "animais": ["Camurca", "Quebra-ossos"],
+    "imagem": "andorra.jpg"
+  },
+  "Angola": {
+    "continente": "Africa",
+    "coordenadas": [-11.2027, 17.8739],
+    "capital": "Luanda",
+    "clima": "Tropical",
+    "animais": ["Palanca-negra", "Elefante"],
+    "imagem": "angola.jpg"
+  },
+  "Antigua e Barbuda": {
+    "continente": "America Central",
+    "coordenadas": [17.0608, -61.7964],
+    "capital": "Saint Johns",
+    "clima": "Tropical maritimo",
+    "animais": ["Pelicano", "Tartaruga-marinha"],
+    "imagem": "antigua_e_barbuda.jpg"
+   
+  },
+  "Arabia Saudita": {
+    "continente": "Asia",
+    "coordenadas": [23.8859, 45.0792],
+    "capital": "Riade",
+    "clima": "Desertico",
+    "animais": ["Camelo", "Orix-arabico"],
+    "imagem": "arabia_saudita.jpg"
+   
+  },
+  "Argelia": {
+    "continente": "Africa",
+    "coordenadas": [28.0339, 1.6596],
+    "capital": "Argel",
+    "clima": "Desertico e mediterranico",
+    "animais": ["Fenneco", "Gazela"],
+    "imagem": "argelia.jpg"
+  },
+  "Argentina": {
+    "continente": "America do Sul",
+    "coordenadas": [-38.4161, -63.6167],
+    "capital": "Buenos Aires",
+    "clima": "Temperado e subtropical",
+    "animais": ["Puma", "Condor-andino"],
+    "imagem": "argentina.jpg"
+  },
+  "Armenia": {
+    "continente": "Asia",
+    "coordenadas": [40.0691, 45.0382],
+    "capital": "Erevan",
+    "clima": "Continental",
+    "animais": ["Leopardo-caucasiano", "Urso-pardo"],
+    "imagem": "armenia.jpg"
+  },
+  "Australia": {
+    "continente": "Oceania",
+    "coordenadas": [-25.2744, 133.7751],
+    "capital": "Camberra",
+    "clima": "Arido e tropical",
+    "animais": ["Canguru", "Coala"],
+    "imagem": "australia.jpg"
+  },
+  "Austria": {
+    "continente": "Europa",
+    "coordenadas": [47.5162, 14.5501],
+    "capital": "Viena",
+    "clima": "Temperado continental",
+    "animais": ["Aguia-real", "Camurca"],
+    "imagem": "austria.jpg"
+  },
+  "Azerbaijao": {
+    "continente": "Asia",
+    "coordenadas": [40.1431, 47.5769],
+    "capital": "Bacu",
+    "clima": "Semi-arido",
+    "animais": ["Leopardo-caucasiano", "Gazela"],
+    "imagem": "azerbaijao.jpg"
+  },
+  "Bahamas": {
+    "continente": "America Central",
+    "coordenadas": [25.0343, -77.3963],
+    "capital": "Nassau",
+    "clima": "Tropical maritimo",
+    "animais": ["Iguana", "Flamingo"],
+    "imagem": "bahamas.jpg"
+  },
+  "Bahrein": {
+    "continente": "Asia",
+    "coordenadas": [26.0667, 50.5577],
+    "capital": "Manama",
+    "clima": "Desertico",
+    "animais": ["Golfinho", "Dugongo"],
+    "imagem": "bahrein.jpg"
+  },
+  "Bangladesh": {
+    "continente": "Asia",
+    "coordenadas": [23.6850, 90.3563],
+    "capital": "Daca",
+    "clima": "Tropical de moncoes",
+    "animais": ["Tigre-de-bengala", "Elefante-asiatico"],
+    "imagem": "bangladesh.jpg"
+  },
+  "Barbados": {
+    "continente": "America Central",
+    "coordenadas": [13.1939, -59.5432],
+    "capital": "Bridgetown",
+    "clima": "Tropical",
+    "animais": ["Macaco-verde", "Tartaruga-marinha"],
+    "imagem": "barbados.jpg"
+  },
+  "Belgica": {
+    "continente": "Europa",
+    "coordenadas": [50.5039, 4.4699],
+    "capital": "Bruxelas",
+    "clima": "Oceanico",
+    "animais": ["Javali", "Corco"],
+    "imagem": "belgica.jpg"
+  },
+  "Belize": {
+    "continente": "America Central",
+    "coordenadas": [17.1899, -88.4976],
+    "capital": "Belmopan",
+    "clima": "Tropical",
+    "animais": ["Jaguar", "Tucano"],
+    "imagem": "belize.jpg"
+  },
+  "Benim": {
+    "continente": "Africa",
+    "coordenadas": [9.3077, 2.3158],
+    "capital": "Porto Novo",
+    "clima": "Tropical",
+    "animais": ["Leao", "Elefante"],
+    "imagem": "benim.jpg"
+  },
+  "Bielorrussia": {
+    "continente": "Europa",
+    "coordenadas": [53.7098, 27.9534],
+    "capital": "Minsk",
+    "clima": "Continental",
+    "animais": ["Bisonte-europeu", "Lince"],
+    "imagem": "bielorrussia.jpg"
+  },
+  "Bolivia": {
+    "continente": "America do Sul",
+    "coordenadas": [-16.2902, -63.5887],
+    "capital": "Sucre",
+    "clima": "Variado",
+    "animais": ["Lhama", "Condor"],
+    "imagem": "bolivia.jpg"
+  },
+  "Bosnia e Herzegovina": {
+    "continente": "Europa",
+    "coordenadas": [43.9159, 17.6791],
+    "capital": "Sarajevo",
+    "clima": "Continental",
+    "animais": ["Urso-pardo", "Lobo"],
+    "imagem": "bosnia-herzegovina.jpg"
+  },
+  "Botsuana": {
+    "continente": "Africa",
+    "coordenadas": [-22.3285, 24.6849],
+    "capital": "Gaborone",
+    "clima": "Semi-arido",
+    "animais": ["Elefante", "Leao"],
+    "imagem": "botsuana.jpg"
+  },
+  "Brasil": {
+    "continente": "America do Sul",
+    "coordenadas": [-14.2350, -51.9253],
+    "capital": "Brasilia",
+    "clima": "Tropical",
+    "animais": ["Onca-pintada", "Arara-azul"],
+    "imagem": "brasil.jpg"
+  },
+  "Brunei": {
+    "continente": "Asia",
+    "coordenadas": [4.5353, 114.7277],
+    "capital": "Bandar Seri Begauane",
+    "clima": "Equatorial",
+    "animais": ["Orangotango", "Macaco-narigudo"],
+    "imagem": "brunei.jpg"
+  },
+  "Bulgaria": {
+    "continente": "Europa",
+    "coordenadas": [42.7339, 25.4858],
+    "capital": "Sofia",
+    "clima": "Continental",
+    "animais": ["Urso-pardo", "Lobo"],
+    "imagem": "bulgaria.jpg"
+  },
+  "Burkina Faso": {
+    "continente": "Africa",
+    "coordenadas": [12.2383, -1.5616],
+    "capital": "Uagadugu",
+    "clima": "Tropical",
+    "animais": ["Elefante", "Hiena"],
+    "imagem": "burkina-faso.jpg"
+  },
+  "Burundi": {
+    "continente": "Africa",
+    "coordenadas": [-3.3731, 29.9189],
+    "capital": "Gitega",
+    "clima": "Equatorial",
+    "animais": ["Hipopotamo", "Crocodilo"],
+    "imagem": "burundi.jpg"
+  },
+  "Butao": {
+    "continente": "Asia",
+    "coordenadas": [27.5142, 90.4336],
+    "capital": "Timphu",
+    "clima": "Alpino",
+    "animais": ["Panda-vermelho", "Leopardo-das-neves"],
+    "imagem": "butao.jpg"
+  },
+  "Cabo Verde": {
+    "continente": "Africa",
+    "coordenadas": [16.5388, -23.0418],
+    "capital": "Praia",
+    "clima": "Arido tropical",
+    "animais": ["Tartaruga-marinha", "Baleia"],
+    "imagem": "cabo-verde.jpg"
+  },
+  "Camaroes": {
+    "continente": "Africa",
+    "coordenadas": [7.3697, 12.3547],
+    "capital": "Iaounde",
+    "clima": "Tropical",
+    "animais": ["Gorila", "Elefante"],
+    "imagem": "camaroes.jpg"
+  },
+  "Camboja": {
+    "continente": "Asia",
+    "coordenadas": [12.5657, 104.9910],
+    "capital": "Phnom Penh",
+    "clima": "Tropical",
+    "animais": ["Tigre", "Elefante-asiatico"],
+    "imagem": "camboja.jpg"
+  },
+  "Canada": {
+    "continente": "America do Norte",
+    "coordenadas": [56.1304, -106.3468],
+    "capital": "Ottawa",
+    "clima": "Continental frio",
+    "animais": ["Alce", "Urso-pardo"],  
+    "imagem": "canada.jpg"
+  },
+  "Catar": {
+    "continente": "Asia",
+    "coordenadas": [25.3548, 51.1839],
+    "capital": "Doha",
+    "clima": "Desertico",
+    "animais": ["Orix", "Gazela"],
+    "imagem": "catar.jpg"
+  },
+  "Cazaquistao": {
+    "continente": "Asia",
+    "coordenadas": [48.0196, 66.9237],
+    "capital": "Astana",
+    "clima": "Continental",
+    "animais": ["Leopardo-das-neves", "Lobo"],
+    "imagem": "cazaquistao.jpg"
+  },
+  "Chade": {
+    "continente": "Africa",
+    "coordenadas": [15.4542, 18.7322],
+    "capital": "Jamena",
+    "clima": "Desertico e tropical",
+    "animais": ["Elefante", "Leao"], 
+    "imagem": "chade.jpg"
+  },
+  "Chile": {
+    "continente": "America do Sul",
+    "coordenadas": [-35.6751, -71.5430],
+    "capital": "Santiago",
+    "clima": "Variado",
+    "animais": ["Condor", "Puma"],
+    "imagem": "chile.jpg"
+
+  },
+  "China": {
+    "continente": "Asia",
+    "coordenadas": [35.8617, 104.1954],
+    "capital": "Pequim",
+    "clima": "Variado",
+    "animais": ["Panda-gigante", "Tigre-da-china"],
+    "imagem": "china.jpg"
+  },
+  "Chipre": {
+    "continente": "Europa",
+    "coordenadas": [35.1264, 33.4299],
+    "capital": "Nicosia",
+    "clima": "Mediterranico",
+    "animais": ["Muflao", "Tartaruga-verde"],
+    "imagem": "chipre.jpg"
+  },
+  "Colombia": {
+    "continente": "America do Sul",
+    "coordenadas": [4.5709, -74.2973],
+    "capital": "Bogota",
+    "clima": "Tropical",
+    "animais": ["Jaguar", "Tucano"],
+    "imagem": "colombia.jpg"
+    
+  },
+  "Comores": {
+    "continente": "Africa",
+    "coordenadas": [-11.6455, 43.3333],
+    "capital": "Moroni",
+    "clima": "Tropical",
+    "animais": ["Morcego-da-fruta", "Camaleao"],
+    "imagem": "comores.jpg"
+  },
+  "Coreia do Norte": {
+    "continente": "Asia",
+    "coordenadas": [40.3399, 127.5101],
+    "capital": "Pyongyang",
+    "clima": "Continental",
+    "animais": ["Tigre-siberiano", "Urso-negro"],
+    "imagem": "coreia-do-norte.jpg"
+  },
+  "Coreia do Sul": {
+    "continente": "Asia",
+    "coordenadas": [35.9078, 127.7669],
+    "capital": "Seul",
+    "clima": "Continental",
+    "animais": ["Tigre-siberiano", "Urso-negro-asiatico"],
+    "imagem": "coreia-do-sul.jpg"
+  },
+  "Costa do Marfim": {
+    "continente": "Africa",
+    "coordenadas": [7.5400, -5.5471],
+    "capital": "Iamussucro",
+    "clima": "Tropical",
+    "animais": ["Elefante", "Chimpanze"],
+    "imagem": "costa-do-marfim.jpg"
+  },
+  "Costa Rica": {
+    "continente": "America Central",
+    "coordenadas": [9.7489, -83.7534],
+    "capital": "Sao Jose",
+    "clima": "Tropical",
+    "animais": ["Preguica", "Tucano"],
+    "imagem": "costa-rica.jpg"
+  },
+  "Croacia": {
+    "continente": "Europa",
+    "coordenadas": [45.1, 15.2],
+    "capital": "Zagreb",
+    "clima": "Mediterranico e continental",
+    "animais": ["Urso-pardo", "Lince"],
+    "imagem": "croacia.jpg"
+  },
+  "Cuba": {
+    "continente": "America Central",
+    "coordenadas": [21.5218, -77.7812],
+    "capital": "Havana",
+    "clima": "Tropical",
+    "animais": ["Crocodilo-cubano", "Flamingo"],
+    "imagem": "cuba.jpg"
+  },
+  "Dinamarca": {
+    "continente": "Europa",
+    "coordenadas": [56.2639, 9.5018],
+    "capital": "Copenhaga",
+    "clima": "Oceanico",
+    "animais": ["Foca", "Veado"],
+    "imagem": "dinamarca.jpg"
+  },
+  "Dominica": {
+    "continente": "America Central",
+    "coordenadas": [15.4150, -61.3710],
+    "capital": "Roseau",
+    "clima": "Tropical",
+    "animais": ["Papagaio-imperial", "Iguana"],
+    "imagem": "dominica.jpg"
+  },
+  "Egito": {
+    "continente": "Africa",
+    "coordenadas": [26.8206, 30.8025],
+    "capital": "Cairo",
+    "clima": "Desertico",
+    "animais": ["Camelo", "Cobra-egipcia"],
+    "imagem": "egito.jpg"
+  },
+  "Emirados Arabes Unidos": {
+    "continente": "Asia",
+    "coordenadas": [23.4241, 53.8478],
+    "capital": "Abu Dhabi",
+    "clima": "Desertico",
+    "animais": ["Camelo", "Falcao"],
+    "imagem": "emirados-arabes-unidos.jpg"
+  },
+  "Equador": {
+    "continente": "America do Sul",
+    "coordenadas": [-1.8312, -78.1834],
+    "capital": "Quito",
+    "clima": "Equatorial",
+    "animais": ["Tartaruga-gigante", "Iguana-marinha"],
+    "imagem": "equador.jpg"
+  },
+  "Eritreia": {
+    "continente": "Africa",
+    "coordenadas": [15.1794, 39.7823],
+    "capital": "Asmara",
+    "clima": "Arido",
+    "animais": ["Hiena", "Gazela"],
+    "imagem": "eritreia.jpg"
+  },
+  "Eslovaquia": {
+    "continente": "Europa",
+    "coordenadas": [48.6690, 19.6990],
+    "capital": "Bratislava",
+    "clima": "Continental",
+    "animais": ["Urso-pardo", "Lince"],
+    "imagem": "eslovaquia.jpg"
+  },
+  "Eslovenia": {
+    "continente": "Europa",
+    "coordenadas": [46.1512, 14.9955],
+    "capital": "Liubliana",
+    "clima": "Continental e mediterranico",
+    "animais": ["Urso-pardo", "Lince"],
+    "imagem": "eslovenia.jpg"
+  },
+  "Espanha": {
+    "continente": "Europa",
+    "coordenadas": [40.4637, -3.7492],
+    "capital": "Madrid",
+    "clima": "Mediterranico",
+    "animais": ["Touro-bravo", "Aguia-imperial"],
+    "imagem": "espanha.jpg"
+  },
+  "Estados Unidos": {
+    "continente": "America do Norte",
+    "coordenadas": [37.0902, -95.7129],
+    "capital": "Washington",
+    "clima": "Muito variado",
+    "animais": ["Aguia-americana", "Bisonte"],
+    "imagem": "estados-unidos.jpg"
+   
+  },
+  "Estonia": {
+    "continente": "Europa",
+    "coordenadas": [58.5953, 25.0136],
+    "capital": "Taline",
+    "clima": "Continental",
+    "animais": ["Alce", "Lince"],
+    "imagem": "estonia.jpg"
+  },
+  "Etiopia": {
+    "continente": "Africa",
+    "coordenadas": [9.1450, 40.4897],
+    "capital": "Adis Abeba",
+    "clima": "Tropical de altitude",
+    "animais": ["Lobo-etiopico", "Babuino-gelada"],
+    "imagem": "etiopia.jpg"
+    
+  },
+  "Fiji": {
+    "continente": "Oceania",
+    "coordenadas": [-17.7134, 178.0650],
+    "capital": "Suva",
+    "clima": "Tropical maritimo",
+    "animais": ["Iguana", "Tubarao"],
+    "imagem": "fiji.jpg"
+    
+  },
+  "Filipinas": {
+    "continente": "Asia",
+    "coordenadas": [12.8797, 121.7740],
+    "capital": "Manila",
+    "clima": "Tropical",
+    "animais": ["Tarsio", "Aguia-filipina"],  
+    "imagem": "filipinas.jpg"
+   
+  },
+  "Finlandia": {
+    "continente": "Europa",
+    "coordenadas": [61.9241, 25.7482],
+    "capital": "Helsinquia",
+    "clima": "Continental frio",
+    "animais": ["Rena", "Urso-pardo"],
+    "imagem": "finlandia.jpg"
+  },
+  "Franca": {
+    "continente": "Europa",
+    "coordenadas": [46.2276, 2.2137],
+    "capital": "Paris",
+    "clima": "Temperado oceanico",
+    "animais": ["Raposa", "Javali"],
+    "imagem": "franca.jpg"
+  },
+  "Gabao": {
+    "continente": "Africa",
+    "coordenadas": [-0.8037, 11.6094],
+    "capital": "Libreville",
+    "clima": "Equatorial",
+    "animais": ["Gorila", "Elefante-da-floresta"],
+    "imagem": "gabao.jpg"
+  },
+  "Gambia": {
+    "continente": "Africa",
+    "coordenadas": [13.4432, -15.3101],
+    "capital": "Banjul",
+    "clima": "Tropical",
+    "animais": ["Hipopotamo", "Crocodilo"],
+    "imagem": "gambia.jpg" 
+  },
+  "Gana": {
+    "continente": "Africa",
+    "coordenadas": [7.9465, -1.0232],
+    "capital": "Acra",
+    "clima": "Tropical",
+    "animais": ["Elefante", "Antilope"],
+    "imagem": "gana.jpg"
+  },
+  "Georgia": {
+    "continente": "Asia",
+    "coordenadas": [42.3154, 43.3569],
+    "capital": "Tbilisi",
+    "clima": "Subtropical e alpino",
+    "animais": ["Leopardo-caucasiano", "Urso-pardo"],
+    "imagem": "georgia.jpg"
+  },
+  "Granada": {
+    "continente": "America Central",
+    "coordenadas": [12.1165, -61.6790],
+    "capital": "São Jorge",
+    "clima": "Tropical",
+    "animais": ["Mona", "Tartaruga-marinha"],
+    "imagem": "granada.jpg"    
+},
+"Grecia": {
+"continente": "Europa",
+"coordenadas": [39.0742, 21.8243],
+"capital": "Atenas",
+"clima": "Mediterranico",
+"animais": ["Tartaruga-mediterranica", "Foca-monge"],
+"imagem": "grecia.jpg"
+},
+"Guatemala": {
+"continente": "America Central",
+"coordenadas": [15.7835, -90.2308],
+"capital": "Cidade da Guatemala",
+"clima": "Tropical",
+"animais": ["Quetzal", "Jaguar"],
+"imagem": "guatemala.jpg"
+},
+"Guiana": {
+"continente": "America do Sul",
+"coordenadas": [4.8604, -58.9302],
+"capital": "Georgetown",
+"clima": "Tropical",
+"animais": ["Jaguar", "Arara"],
+"imagem": "guiana.jpg"
+},
+"Guine": {
+"continente": "Africa",
+"coordenadas": [9.9456, -9.6966],
+"capital": "Conacri",
+"clima": "Tropical",
+"animais": ["Chimpanze", "Elefante"],
+"imagem": "guine.jpg"
+},
+"Guine Equatorial": {
+"continente": "Africa",
+"coordenadas": [1.6508, 10.2679],
+"capital": "Malabo",
+"clima": "Tropical",
+"animais": ["Gorila", "Mandril"],
+"imagem": "guine-equatorial.jpg"
+},
+"Guine-Bissau": {
+"continente": "Africa",
+"coordenadas": [11.8037, -15.1804],
+"capital": "Bissau",
+"clima": "Tropical",
+"animais": ["Hipopotamo", "Crocodilo"],
+"imagem": "guine-bissau.jpg"
+},
+"Haiti": {
+"continente": "America Central",
+"coordenadas": [18.9712, -72.2852],
+"capital": "Porto Principe",
+"clima": "Tropical",
+"animais": ["Crocodilo", "Flamingo"],
+"imagem": "haiti.jpg"
+},
+"Honduras": {
+"continente": "America Central",
+"coordenadas": [15.2000, -86.2419],
+"capital": "Tegucigalpa",
+"clima": "Tropical",
+"animais": ["Jaguar", "Quetzal"],
+"imagem": "honduras.jpg"
+},
+"Hungria": {
+"continente": "Europa",
+"coordenadas": [47.1625, 19.5033],
+"capital": "Budapeste",
+"clima": "Continental",
+"animais": ["Veado", "Javali"],
+"imagem": "hungria.jpg"
+},
+"Iemen": {
+"continente": "Asia",
+"coordenadas": [15.5527, 48.5164],
+"capital": "Sana",
+"clima": "Desertico",
+"animais": ["Camelo", "Leopardo-arabico"],
+"imagem": "iemen.jpg"
+},
+"Ilhas Marshall": {
+"continente": "Oceania",
+"coordenadas": [7.1315, 171.1845],
+"capital": "Majuro",
+"clima": "Tropical maritimo",
+"animais": ["Tartaruga-marinha", "Golfinho"],
+"imagem": "ilhas-marshall.jpg"  
+},
+"Ilhas Salomao": {
+"continente": "Oceania",
+"coordenadas": [-9.6457, 160.1562],
+"capital": "Honiara",
+"clima": "Tropical",
+"animais": ["Crocodilo-marinho", "Cacatua"],
+"imagem": "ilhas-salomao.jpg"
+},
+"India": {
+"continente": "Asia",
+"coordenadas": [20.5937, 78.9629],
+"capital": "Nova Deli",
+"clima": "Tropical de moncoes",
+"animais": ["Tigre-de-bengala", "Elefante-asiatico"],
+"imagem": "india.jpg"
+},
+"Indonesia": {
+"continente": "Asia",
+"coordenadas": [-0.7893, 113.9213],
+"capital": "Jacarta",
+"clima": "Tropical",
+"animais": ["Orangotango", "Dragao-de-komodo"],
+"imagem": "indonesia.jpg"
+},
+"Irão": {
+"continente": "Asia",
+"coordenadas": [32.4279, 53.6880],
+"capital": "Teerao",
+"clima": "Arido e semi-arido",
+"animais": ["Leopardo-persa", "Gato-persa"],
+"imagem": "ira.jpg"
+},
+"Iraque": {
+"continente": "Asia",
+"coordenadas": [33.2232, 43.6793],
+"capital": "Bagdade",
+"clima": "Desertico",
+"animais": ["Camelo", "Chacal"],
+"imagem": "iraque.jpg"
+},
+"Irlanda": {
+"continente": "Europa",
+"coordenadas": [53.4129, -8.2439],
+"capital": "Dublin",
+"clima": "Oceanico",
+"animais": ["Veado-vermelho", "Raposa"],
+"imagem": "irlanda.jpg"
+},
+"Islandia": {
+"continente": "Europa",
+"coordenadas": [64.9631, -19.0208],
+"capital": "Reiquiavique",
+"clima": "Subpolar oceanico",
+"animais": ["Raposa-do-artico", "Baleia"], 
+"imagem": "islandia.jpg"
+},
+"Israel": {
+"continente": "Asia",
+"coordenadas": [31.0461, 34.8516],
+"capital": "Telavive",
+"clima": "Mediterranico",
+"animais": ["Gazela", "Ibex"], 
+"imagem": "Israel.jpg"
+},
+"Italia": {
+"continente": "Europa",
+"coordenadas": [41.8719, 12.5674],
+"capital": "Roma",
+"clima": "Mediterranico",
+"animais": ["Lobo-italiano", "Aguia-dourada"],
+"imagem": "italia.jpg"
+},
+"Jamaica": {
+"continente": "America Central",
+"coordenadas": [18.1096, -77.2975],
+"capital": "Kingston",
+"clima": "Tropical",
+"animais": ["Crocodilo-americano", "Iguana"],
+"imagem": "jamaica.jpg"
+},
+"Japao": {
+"continente": "Asia",
+"coordenadas": [36.2048, 138.2529],
+"capital": "Toquio",
+"clima": "Temperado e subtropical",
+"animais": ["Macaco-japones", "Tanuki"],
+"imagem": "japao.jpg"
+},
+"Jordania": {
+"continente": "Asia",
+"coordenadas": [30.5852, 36.2384],
+"capital": "Ama",
+"clima": "Desertico",
+"animais": ["Orix-arabico", "Gazela"],
+"imagem": "jordania.jpg"
+},
+"Kiribati": {
+"continente": "Oceania",
+"coordenadas": [-3.3704, -168.7340],
+"capital": "Taraua do Sul",
+"clima": "Tropical maritimo",
+"animais": ["Tartaruga-marinha", "Fragata"],
+"imagem": "kiribati.jpg"
+},
+"Kosovo": {
+"continente": "Europa",
+"coordenadas": [42.6026, 20.9030],
+"capital": "Pristina",
+"clima": "Continental",
+"animais": ["Urso-pardo", "Lince"],
+"imagem": "kosovo.jpg"
+},
+"Kuait": {
+"continente": "Asia",
+"coordenadas": [29.3117, 47.4818],
+"capital": "Cidade do Kuait",
+"clima": "Desertico",
+"animais": ["Camelo", "Gazela"],
+"imagem": "kuait.jpg"
+},
+"Laos": {
+"continente": "Asia",
+"coordenadas": [19.8563, 102.4955],
+"capital": "Vienciana",
+"clima": "Tropical",
+"animais": ["Elefante-asiatico", "Tigre"],
+"imagem": "laos.jpg"
+},
+"Lesoto": {
+"continente": "Africa",
+"coordenadas": [-29.6100, 28.2336],
+"capital": "Maseru",
+"clima": "Temperado",
+"animais": ["Aguia-negra", "Antilope"],
+"imagem": "lesoto.jpg"
+},
+"Letonia": {
+"continente": "Europa",
+"coordenadas": [56.8796, 24.6032],
+"capital": "Riga",
+"clima": "Continental",
+"animais": ["Alce", "Lobo"],
+"imagem": "letonia.jpg"
+},
+"Libano": {
+"continente": "Asia",
+"coordenadas": [33.8547, 35.8623],
+"capital": "Beirute",
+"clima": "Mediterranico",
+"animais": ["Hiena-riscada", "Gazela"],
+"imagem": "libano.jpg"
+},
+"Liberia": {
+"continente": "Africa",
+"coordenadas": [6.4281, -9.4295],
+"capital": "Monrovia",
+"clima": "Tropical",
+"animais": ["Hipopotamo-pigmeu", "Chimpanze"], 
+"imagem": "liberia.jpg"
+},
+"Libia": {
+"continente": "Africa",
+"coordenadas": [26.3351, 17.2283],
+"capital": "Tripoli",
+"clima": "Desertico",
+"animais": ["Fenneco", "Gazela"],
+"imagem": "libia.jpg"
+},
+"Listenstaine": {
+"continente": "Europa",
+"coordenadas": [47.1660, 9.5554],
+"capital": "Vaduz",
+"clima": "Alpino",
+"animais": ["Camurca", "Aguia-real"],
+"imagem": "listenstaine.jpg"
+},
+"Lituania": {
+"continente": "Europa",
+"coordenadas": [55.1694, 23.8813],
+"capital": "Vilnius",
+"clima": "Continental",
+"animais": ["Alce", "Bisonte-europeu"],
+"imagem": "lituania.jpg"
+},
+"Luxemburgo": {
+"continente": "Europa",
+"coordenadas": [49.8153, 6.1296],
+"capital": "Luxemburgo",
+"clima": "Oceanico",
+"animais": ["Veado", "Javali"],
+"imagem": "luxemburgo.jpg"
+},
+"Macedonia do Norte": {
+"continente": "Europa",
+"coordenadas": [41.6086, 21.7453],
+"capital": "Escopia",
+"clima": "Continental",
+"animais": ["Urso-pardo", "Lobo"],
+"imagem": "macedonia-do-norte.jpg"
+},
+"Madagascar": {
+"continente": "Africa",
+"coordenadas": [-18.7669, 46.8691],
+"capital": "Antananarivo",
+"clima": "Tropical",
+"animais": ["Lemure", "Fossa"],
+"imagem": "madagascar.jpg"
+},
+"Malasia": {
+"continente": "Asia",
+"coordenadas": [4.2105, 101.9758],
+"capital": "Kuala Lumpur",
+"clima": "Equatorial",
+"animais": ["Orangotango", "Tigre-malaio"],
+"imagem": "malasia.jpg"
+},
+"Malavi": {
+"continente": "Africa",
+"coordenadas": [-13.2543, 34.3015],
+"capital": "Lilongue",
+"clima": "Tropical",
+"animais": ["Elefante", "Leopardo"],
+"imagem": "malavi.jpg"
+},
+"Maldivas": {
+"continente": "Asia",
+"coordenadas": [3.2028, 73.2207],
+"capital": "Male",
+"clima": "Tropical maritimo",
+"animais": ["Tubarao-baleia", "Manta"],
+"imagem": "maldivas.jpg"
+},
+"Mali": {
+"continente": "Africa",
+"coordenadas": [17.5707, -3.9962],
+"capital": "Bamaco",
+"clima": "Arido",
+"animais": ["Elefante", "Leao"],
+"imagem": "mali.jpg"
+},
+"Malta": {
+"continente": "Europa",
+"coordenadas": [35.9375, 14.3754],
+"capital": "Valeta",
+"clima": "Mediterranico",
+"animais": ["Coelho", "Golfinho"],
+"imagem": "malta.jpg"
+},
+"Marrocos": {
+"continente": "Africa",
+"coordenadas": [31.7917, -7.0926],
+"capital": "Rabat",
+"clima": "Mediterranico e desertico",
+"animais": ["Camelo", "Macaco-berbere"],
+"imagem": "marrocos.jpg"
+},
+"Mauricia": {
+"continente": "Africa",
+"coordenadas": [-20.3484, 57.5522],
+"capital": "Porto Luis",
+"clima": "Tropical",
+"animais": ["Morcego-da-fruta", "Gecko"],
+"imagem": "mauricia.jpg"
+},
+"Mauritania": {
+"continente": "Africa",
+"coordenadas": [21.0079, -10.9408],
+"capital": "Nuaquechote",
+"clima": "Desertico",
+"animais": ["Camelo", "Gazela"],
+"imagem": "mauritania.jpg"
+},
+"Mexico": {
+"continente": "America do Norte",
+"coordenadas": [23.6345, -102.5528],
+"capital": "Cidade do Mexico",
+"clima": "Tropical e arido",
+"animais": ["Jaguar", "Quetzal"],
+"imagem": "mexico.jpg"
+},
+"Micronesia": {
+"continente": "Oceania",
+"coordenadas": [7.4256, 150.5508],
+"capital": "Palikir",
+"clima": "Tropical maritimo",
+"animais": ["Tartaruga-marinha", "Golfinho"],
+"imagem": "micronesia.jpg"
+},
+"Mocambique": {
+"continente": "Africa",
+"coordenadas": [-18.6657, 35.5296],
+"capital": "Maputo",
+"clima": "Tropical",
+"animais": ["Elefante", "Leao"],
+"imagem": "mocambique.jpg"
+},
+"Moldova": {
+"continente": "Europa",
+"coordenadas": [47.4116, 28.3699],
+"capital": "Chisinau",
+"clima": "Continental",
+"animais": ["Lobo", "Javali"],
+"imagem": "moldova.jpg"
+},
+"Monaco": {
+"continente": "Europa",
+"coordenadas": [43.7384, 7.4246],
+"capital": "Monaco",
+"clima": "Mediterranico",
+"animais": ["Golfinho", "Gaivota"],
+"imagem": "monaco.jpg"
+},
+"Mongolia": {
+"continente": "Asia",
+"coordenadas": [46.8625, 103.8467],
+"capital": "Ulã Bator",
+"clima": "Continental extremo",
+"animais": ["Leopardo-das-neves", "Camelo-bactriano"],
+"imagem": "mongolia.jpg"
+},
+"Montenegro": {
+"continente": "Europa",
+"coordenadas": [42.7087, 19.3744],
+"capital": "Podgorica",
+"clima": "Mediterranico e continental",
+"animais": ["Urso-pardo", "Lince"],
+"imagem": "montenegro.jpg"
+},
+"Namibia": {
+"continente": "Africa",
+"coordenadas": [-22.9576, 18.4904],
+"capital": "Vinduque",
+"clima": "Desertico",
+"animais": ["Guepardo", "Elefante-do-deserto"],
+"imagem": "namibia.jpg"
+},
+"Nauru": {
+"continente": "Oceania",
+"coordenadas": [-0.5228, 166.9315],
+"capital": "Iarém",
+"clima": "Tropical",
+"animais": ["Tartaruga-marinha", "Fragata"], 
+"imagem": "nauru.jpg"
+},
+"Nepal": {
+"continente": "Asia",
+"coordenadas": [28.3949, 84.1240],
+"capital": "Catmandu",
+"clima": "Alpino e subtropical",
+"animais": ["Leopardo-das-neves", "Panda-vermelho"],
+"imagem": "nepal.jpg"
+},
+"Nicaragua": {
+"continente": "America Central",
+"coordenadas": [12.8654, -85.2072],
+"capital": "Managua",
+"clima": "Tropical",
+"animais": ["Jaguar", "Quetzal"],
+"imagem": "nicaragua.jpg"
+},
+"Niger": {
+"continente": "Africa",
+"coordenadas": [17.6078, 8.0817],
+"capital": "Niamei",
+"clima": "Desertico",
+"animais": ["Camelo", "Gazela"],
+"imagem": "niger.jpg"
+},
+"Nigeria": {
+"continente": "Africa",
+"coordenadas": [9.0820, 8.6753],
+"capital": "Abuja",
+"clima": "Tropical",
+"animais": ["Gorila", "Chimpanze"], 
+"imagem": "nigeria.jpg"
+},
+"Noruega": {
+"continente": "Europa",
+"coordenadas": [60.4720, 8.4689],
+"capital": "Oslo",
+"clima": "Oceanico frio",
+"animais": ["Rena", "Raposa-do-artico"],
+"imagem": "noruega.jpg"
+},
+"Nova Zelandia": {
+"continente": "Oceania",
+"coordenadas": [-40.9006, 174.8860],
+"capital": "Wellington",
+"clima": "Temperado oceanico",
+"animais": ["Kiwi", "Tuatara"],
+"imagem": "nova-zelandia.jpg"
+},
+"Oma": {
+"continente": "Asia",
+"coordenadas": [21.4735, 55.9754],
+"capital": "Mascate",
+"clima": "Desertico",
+"animais": ["Orix-arabico", "Leopardo-arabico"],
+"imagem": "oma.jpg"
+},
+"Holanda": {
+"continente": "Europa",
+"coordenadas": [52.1326, 5.2913],
+"capital": "Amsterdao",
+"clima": "Oceanico",
+"animais": ["Foca-comum", "Coruja-do-campo"],
+"imagem": "holanda.jpg"
+},
+"Palau": {
+"continente": "Oceania",
+"coordenadas": [7.5150, 134.5825],
+"capital": "Ngerulmud",
+"clima": "Tropical maritimo",
+"animais": ["Crocodilo-marinho", "Tubarao"],
+"imagem": "palau.jpg"
+},
+"Panama": {
+"continente": "America Central",
+"coordenadas": [8.5380, -80.7821],
+"capital": "Panama",
+"clima": "Tropical",
+"animais": ["Jaguar", "Preguica"],
+"imagem": "panama.jpg"
+},
+"Papua-Nova Guine": {
+"continente": "Oceania",
+"coordenadas": [-6.3150, 143.9555],
+"capital": "Porto Moresby",
+"clima": "Tropical",
+"animais": ["Ave-do-paraiso", "Canguru-arboreo"],
+"imagem": "papua-nova-guine.jpg"
+},
+"Paquistao": {
+"continente": "Asia",
+"coordenadas": [30.3753, 69.3451],
+"capital": "Islamabade",
+"clima": "Arido e semi-arido",
+"animais": ["Leopardo-das-neves", "Marco-polo"],
+"imagem": "paquistao.jpg"
+},
+"Paraguai": {
+"continente": "America do Sul",
+"coordenadas": [-23.4425, -58.4438],
+"capital": "Assuncao",
+"clima": "Subtropical",
+"animais": ["Jaguar", "Capivara"],
+"imagem": "paraguai.jpg"
+},
+"Peru": {
+"continente": "America do Sul",
+"coordenadas": [-9.1900, -75.0152],
+"capital": "Lima",
+"clima": "Variado",
+"animais": ["Lhama", "Condor-andino"],
+"imagem": "peru.jpg"
+},
+"Polonia": {
+"continente": "Europa",
+"coordenadas": [51.9194, 19.1451],
+"capital": "Varsovia",
+"clima": "Continental",
+"animais": ["Bisonte-europeu", "Lobo"],
+"imagem": "polonia.jpg"
+},
+"Portugal": {
+"continente": "Europa",
+"coordenadas": [39.3999, -8.2245],
+"capital": "Lisboa",
+"clima": "Mediterranico",
+"animais": ["Lince-iberico", "Lobo-iberico"],
+"imagem": "portugal.jpg"
+},
+"Quenia": {
+"continente": "Africa",
+"coordenadas": [-0.0236, 37.9062],
+"capital": "Nairobi",
+"clima": "Tropical",
+"animais": ["Leao", "Elefante-africano"],
+"imagem": "quenia.jpg"
+},
+"Quirguistao": {
+"continente": "Asia",
+"coordenadas": [41.2044, 74.7661],
+"capital": "Bisqueque",
+"clima": "Continental",
+"animais": ["Leopardo-das-neves", "Marco-polo"],
+"imagem": "quirguistao.jpg"
+},
+"Reino Unido": {
+"continente": "Europa",
+"coordenadas": [55.3781, -3.4360],
+"capital": "Londres",
+"clima": "Temperado oceanico",
+"animais": ["Raposa-vermelha", "Texugo-europeu"],
+"imagem": "reino-unido.jpg"
+},
+"Republica Centro-Africana": {
+"continente": "Africa",
+"coordenadas": [6.6111, 20.9394],
+"capital": "Bangui",
+"clima": "Tropical",
+"animais": ["Gorila", "Elefante-da-floresta"],
+"imagem": "republica-centro-africana.jpg"
+}, 
+"Republica Checa": {
+"continente": "Europa",
+"coordenadas": [49.8175, 15.4730],
+"capital": "Praga",
+"clima": "Continental",
+"animais": ["Veado", "Lince"], 
+"imagem": "republica-checa.jpg"
+},
+"Republica Democratica do Congo": {
+"continente": "Africa",
+"coordenadas": [-4.0383, 21.7587],
+"capital": "Kinshasa",
+"clima": "Equatorial",
+"animais": ["Gorila-da-montanha", "Okapi"],
+"imagem": "republica-democratica-do-congo.jpg"
+},
+"Republica Dominicana": {
+"continente": "America Central",
+"coordenadas": [18.7357, -70.1627],
+"capital": "Santo Domingo",
+"clima": "Tropical",
+"animais": ["Crocodilo-americano", "Iguana"], 
+"imagem": "republica-dominicana.jpg"
+},
+"Republica do Congo": {
+"continente": "Africa",
+"coordenadas": [-0.2280, 15.8277],
+"capital": "Brazavile",
+"clima": "Tropical",
+"animais": ["Gorila", "Chimpanze"], 
+"imagem": "republica-do-congo.jpg"
+},
+"Romenia": {
+"continente": "Europa",
+"coordenadas": [45.9432, 24.9668],
+"capital": "Bucareste",
+"clima": "Continental",
+"animais": ["Urso-pardo", "Lince"], 
+"imagem": "romenia.jpg"
+},
+"Ruanda": {
+"continente": "Africa",
+"coordenadas": [-1.9403, 29.8739],
+"capital": "Kigali",
+"clima": "Temperado tropical",
+"animais": ["Gorila-da-montanha", "Chimpanze"],
+"imagem": "ruanda.jpg"
+},
+"Russia": {
+"continente": "Europa e Asia",
+"coordenadas": [61.5240, 105.3188],
+"capital": "Moscovo",
+"clima": "Continental frio",
+"animais": ["Urso-pardo", "Tigre-siberiano"],
+"imagem": "russia.jpg"
+},
+"Samoa": {
+"continente": "Oceania",
+"coordenadas": [-13.7590, -172.1046],
+"capital": "Apia",
+"clima": "Tropical maritimo",
+"animais": ["Morcego-da-fruta", "Tartaruga-marinha"],
+"imagem": "samoa.jpg"
+},
+"San Marino": {
+"continente": "Europa",
+"coordenadas": [43.9424, 12.4578],
+"capital": "San Marino",
+"clima": "Mediterranico",
+"animais": ["Raposa", "Javali"],
+"imagem": "san-marino.jpg"
+},
+"Santa Lucia": {
+"continente": "America Central",
+"coordenadas": [13.9094, -60.9789],
+"capital": "Castries",
+"clima": "Tropical",
+"animais": ["Papagaio", "Iguana"],
+"imagem": "santa-lucia.jpg"
+},
+"Sao Cristovao e Neves": {
+"continente": "America Central",
+"coordenadas": [17.3578, -62.7830],
+"capital": "Basseterre",
+"clima": "Tropical maritimo",
+"animais": ["Macaco-verde", "Pelicano"],
+"imagem": "sao-cristovao-e-neves.jpg"
+},
+"Sao Tome e Principe": {
+"continente": "Africa",
+"coordenadas": [0.1864, 6.6131],
+"capital": "Sao Tome",
+"clima": "Tropical",
+"animais": ["Tartaruga-marinha", "Baleia"], 
+"imagem": "sao-tome-e-principe.jpg"
+},
+"Sao Vicente e Granadinas": {
+"continente": "America Central",
+"coordenadas": [12.9843, -61.2872],
+"capital": "Kingstown",
+"clima": "Tropical",
+"animais": ["Tartaruga-marinha", "Papagaio"], 
+"imagem": "sao-vicente-e-granadinas.jpg"
+},
+"Senegal": {
+"continente": "Africa",
+"coordenadas": [14.4974, -14.4524],
+"capital": "Dacar",
+"clima": "Tropical",
+"animais": ["Leao", "Hipopotamo"], 
+"imagem": "senegal.jpg"
+},
+"Serra Leoa": {
+"continente": "Africa",
+"coordenadas": [8.4606, -11.7799],
+"capital": "Freetown",
+"clima": "Tropical",
+"animais": ["Chimpanze", "Hipopotamo-pigmeu"],
+"imagem": "serra-leoa.jpg"
+},
+"Servia": {
+"continente": "Europa",
+"coordenadas": [44.0165, 21.0059],
+"capital": "Belgrado",
+"clima": "Continental",
+"animais": ["Urso-pardo", "Lobo"],
+"imagem": "servia.jpg"
+},
+"Seicheles": {
+"continente": "Africa",
+"coordenadas": [-4.6796, 55.4920],
+"capital": "Victoria",
+"clima": "Tropical maritimo",
+"animais": ["Tartaruga-gigante", "Tubarao-baleia"],
+"imagem": "seicheles.jpg"
+},
+"Singapura": {
+"continente": "Asia",
+"coordenadas": [1.3521, 103.8198],
+"capital": "Singapura",
+"clima": "Equatorial",
+"animais": ["Macaco", "Lontra"],
+"imagem": "singapura.jpg"
+},
+"Siria": {
+"continente": "Asia",
+"coordenadas": [34.8021, 38.9968],
+"capital": "Damasco",
+"clima": "Desertico e mediterranico",
+"animais": ["Gazela", "Hiena"],
+"imagem": "siria.jpg"
+},
+"Somalia": {
+"continente": "Africa",
+"coordenadas": [5.1521, 46.1996],
+"capital": "Mogadiscio",
+"clima": "Desertico",
+"animais": ["Camelo", "Hiena"],
+"imagem": "somalia.jpg"
+},
+"Sri Lanka": {
+"continente": "Asia",
+"coordenadas": [7.8731, 80.7718],
+"capital": "Sri Jaiavardenapura Cote",
+"clima": "Tropical",
+"animais": ["Elefante-asiatico", "Leopardo-do-sri-lanka"],
+"imagem": "sri-lanka.jpg"
+},
+"Suazilandia": {
+"continente": "Africa",
+"coordenadas": [-26.5225, 31.4659],
+"capital": "Mabane",
+"clima": "Subtropical",
+"animais": ["Elefante", "Rinoceronte"],
+"imagem": "suazilandia.jpg"
+},
+"Sudao": {
+"continente": "Africa",
+"coordenadas": [12.8628, 30.2176],
+"capital": "Cartum",
+"clima": "Desertico e tropical",
+"animais": ["Elefante", "Leao"],
+"imagem": "sudao.jpg"
+},
+"Sudao do Sul": {
+"continente": "Africa",
+"coordenadas": [6.8770, 31.3070],
+"capital": "Juba",
+"clima": "Tropical",
+"animais": ["Elefante", "Girafa"],
+"imagem": "sudao-do-sul.jpg"
+},
+"Suecia": {
+"continente": "Europa",
+"coordenadas": [60.1282, 18.6435],
+"capital": "Estocolmo",
+"clima": "Continental frio",
+"animais": ["Alce", "Lince-europeu"],
+"imagem": "suecia.jpg"
+},
+"Suica": {
+"continente": "Europa",
+"coordenadas": [46.8182, 8.2275],
+"capital": "Berna",
+"clima": "Alpino",
+"animais": ["Camurca", "Marmota"],
+"imagem": "suica.jpg"
+},
+"Suriname": {
+"continente": "America do Sul",
+"coordenadas": [3.9193, -56.0278],
+"capital": "Paramaribo",
+"clima": "Tropical",
+"animais": ["Jaguar", "Preguica"],
+"imagem": "suriname.jpg"
+},
+"Tailandia": {
+"continente": "Asia",
+"coordenadas": [15.8700, 100.9925],
+"capital": "Banguecoque",
+"clima": "Tropical",
+"animais": ["Elefante-asiatico", "Tigre"],
+"imagem": "tailandia.jpg"
+},
+"Tajiquistao": {
+    "continente": "Asia",
+    "coordenadas": [38.8610, 71.2761],
+    "capital": "Duchambe",
+    "clima": "Continental",
+    "animais": ["Leopardo-das-neves", "Marco-polo"],
+    "imagem": "tajiquistao.jpg"
+  },
+  "Tanzania": {
+    "continente": "Africa",
+    "coordenadas": [-6.3690, 34.8888],
+    "capital": "Dodoma",
+    "clima": "Tropical",
+    "animais": ["Leao", "Elefante-africano"], 
+    "imagem": "tanzania.jpg"
+  },
+  "Timor-Leste": {
+    "continente": "Asia",
+    "coordenadas": [-8.8742, 125.7275],
+    "capital": "Dili",
+    "clima": "Tropical",
+    "animais": ["Crocodilo-marinho", "Macaco"],
+    "imagem": "timor-leste.jpg"
+  },
+  "Togo": {
+    "continente": "Africa",
+    "coordenadas": [8.6195, 0.8248],
+    "capital": "Lome",
+    "clima": "Tropical",
+    "animais": ["Elefante", "Hipopotamo"],
+    "imagem": "togo.jpg"
+  },
+  "Tonga": {
+    "continente": "Oceania",
+    "coordenadas": [-21.1790, -175.1982],
+    "capital": "Nucualofa",
+    "clima": "Tropical maritimo",
+    "animais": ["Baleia-jubarte", "Tartaruga-marinha"],
+    "imagem": "tonga.jpg"
+  },
+  "Trindade e Tobago": {
+    "continente": "America Central",
+    "coordenadas": [10.6918, -61.2225],
+    "capital": "Porto Espanha",
+    "clima": "Tropical",
+    "animais": ["Colibri", "Anaconda"],
+    "imagem": "trindade-e-tobago.jpg"
+  },
+  "Tunisia": {
+    "continente": "Africa",
+    "coordenadas": [33.8869, 9.5375],
+    "capital": "Tunes",
+    "clima": "Mediterranico e desertico",
+    "animais": ["Fenneco", "Gazela"],
+    "imagem": "tunisia.jpg"
+  },
+  "Turcomenistao": {
+    "continente": "Asia",
+    "coordenadas": [38.9697, 59.5563],
+    "capital": "Asgabate",
+    "clima": "Desertico",
+    "animais": ["Camelo", "Leopardo-persa"],
+    "imagem": "turcomenistao.jpg"
+  },
+  "Turquia": {
+    "continente": "Europa e Asia",
+    "coordenadas": [38.9637, 35.2433],
+    "capital": "Ancara",
+    "clima": "Mediterranico e continental",
+    "animais": ["Lobo-turco", "Urso-pardo"],
+    "imagem": "turquia.jpg"
+  },
+  "Tuvalu": {
+    "continente": "Oceania",
+    "coordenadas": [-7.1095, 177.6493],
+    "capital": "Funafuti",
+    "clima": "Tropical maritimo",
+    "animais": ["Tartaruga-marinha", "Fragata"],
+    "imagem": "tuvalu.jpg"
+  },
+  "Ucrania": {
+    "continente": "Europa",
+    "coordenadas": [48.3794, 31.1656],
+    "capital": "Kiev",
+    "clima": "Continental",
+    "animais": ["Bisonte-europeu", "Lobo"],
+    "imagem": "ucrania.jpg"
+  },
+  "Uganda": {
+    "continente": "Africa",
+    "coordenadas": [1.3733, 32.2903],
+    "capital": "Campala",
+    "clima": "Tropical",
+    "animais": ["Gorila-da-montanha", "Chimpanze"],
+    "imagem": "uganda.jpg"
+  },
+  "Uruguai": {
+    "continente": "America do Sul",
+    "coordenadas": [-32.5228, -55.7658],
+    "capital": "Montevideu",
+    "clima": "Temperado",
+    "animais": ["Capivara", "Ema"],
+    "imagem": "uruguai.jpg"
+  },
+  "Usbequistao": {
+    "continente": "Asia",
+    "coordenadas": [41.3775, 64.5853],
+    "capital": "Tasquente",
+    "clima": "Continental arido",
+    "animais": ["Leopardo-das-neves", "Camelo"],
+    "imagem": "usbequistao.jpg"
+  },
+  "Vanuatu": {
+    "continente": "Oceania",
+    "coordenadas": [-15.3767, 166.9592],
+    "capital": "Porto Vila",
+    "clima": "Tropical",
+    "animais": ["Morcego-da-fruta", "Dugongo"],
+    "imagem": "vanuatu.jpg"
+  },
+  "Vaticano": {
+    "continente": "Europa",
+    "coordenadas": [41.9029, 12.4534],
+    "capital": "Cidade do Vaticano",
+    "clima": "Mediterranico",
+    "animais": ["Pombo", "Gaivota"],
+    "imagem": "vaticano.jpg"
+  },
+  "Venezuela": {
+    "continente": "America do Sul",
+    "coordenadas": [6.4238, -66.5897],
+    "capital": "Caracas",
+    "clima": "Tropical",
+    "animais": ["Capivara", "Anaconda"],
+    "imagem": "venezuela.jpg"
+  },
+  "Vietname": {
+    "continente": "Asia",
+    "coordenadas": [14.0583, 108.2772],
+    "capital": "Hanoi",
+    "clima": "Tropical",
+    "animais": ["Elefante-asiatico", "Tigre"],
+    "imagem": "vietname.jpg"
+  },
+  "Zambia": {
+    "continente": "Africa",
+    "coordenadas": [-13.1339, 27.8493],
+    "capital": "Lusaca",
+    "clima": "Tropical",
+    "animais": ["Elefante", "Leopardo"],
+    "imagem": "zambia.jpg"
+  },
+  "Zimbabue": {
+    "continente": "Africa",
+    "coordenadas": [-19.0154, 29.1549],
+    "capital": "Harare",
+    "clima": "Tropical",
+    "animais": ["Elefante", "Rinoceronte"],
+    "imagem": "zimbabue.jpg"
+  }
+
+}
